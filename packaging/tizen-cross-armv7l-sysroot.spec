@@ -20,9 +20,9 @@ Needed for cross-build on x86 side to host the arm cross sysroot
 %prep
 
 %build
-cp %{SOURCE1001} .
 
 %install
+#rpm -ql filesystem is too much.
 mkdir -p %buildroot/opt/cross/armv7l-tizen-linux-gnueabi
 mkdir -p %buildroot/opt/cross/armv7l-tizen-linux-gnueabi/sys-root
 mkdir -p %buildroot/opt/cross/armv7l-tizen-linux-gnueabi/sys-root/etc
@@ -41,6 +41,5 @@ mkdir -p %buildroot/opt/cross/armv7l-tizen-linux-gnueabi/sys-root/usr/include
 rm -rf $RPM_BUILD_ROOT
 
 %files
-%manifest tizen-cross-armv7l-sysroot.manifest
 %defattr(-,root,root)
 /opt/cross
