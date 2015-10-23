@@ -1,3 +1,37 @@
+* Sat Jun 28 2014 SLP SCM <slpsystem.m@samsung.com> - None 
+- PROJECT: toolchains/tizen-cross-armv7l-sysroot
+- COMMIT_ID: 5f0fc8d26d5e3ac4469db855a22e6c14cf20c6f2
+- BRANCH: master
+- PATCHSET_REVISION: 5f0fc8d26d5e3ac4469db855a22e6c14cf20c6f2
+- CHANGE_OWNER: \"UkJung Kim\" <ujkim@samsung.com>
+- PATCHSET_UPLOADER: \"UkJung Kim\" <ujkim@samsung.com>
+- CHANGE_URL: http://slp-info.sec.samsung.net/gerrit/534143
+- PATCHSET_REVISION: 5f0fc8d26d5e3ac4469db855a22e6c14cf20c6f2
+- TAGGER: SLP SCM <slpsystem.m@samsung.com>
+- Gerrit patchset approval info:
+- UkJung Kim <ujkim@samsung.com> Verified : 1
+- Newton Lee <newton.lee@samsung.com> Code-Review : 2
+- Newton Lee <newton.lee@samsung.com> Verified : 1
+- CHANGE_SUBJECT: Merged x86_64 support to master
+
+- Merged x86_64 support to master
+
+* Mon Sep 16 2013 UkJung Kim <ujkim@samsung.com> - None 
+- PROJECT: toolchains/tizen-cross-armv7l-sysroot
+- COMMIT_ID: 9f8f80c2510f9629c239ceef756a47dff7fc6a45
+- PATCHSET_REVISION: 9f8f80c2510f9629c239ceef756a47dff7fc6a45
+- CHANGE_OWNER: \"UkJung Kim\" <ujkim@samsung.com>
+- PATCHSET_UPLOADER: \"UkJung Kim\" <ujkim@samsung.com>
+- CHANGE_URL: http://slp-info.sec.samsung.net/gerrit/249466
+- PATCHSET_REVISION: 9f8f80c2510f9629c239ceef756a47dff7fc6a45
+- TAGGER: UkJung Kim <ujkim@samsung.com>
+- Gerrit patchset approval info:
+- UkJung Kim <ujkim@samsung.com> Verified : 1
+- Yeongil Jang <yg0577.jang@samsung.com> Code Review : 2
+- CHANGE_SUBJECT: Submit to OBS
+
+- Submit to OBS
+
 * Wed Jan 21 2011 Carsten Munk <carsten@maemo.org> - 1.0
 - BMC#12711, support armv7l sysroot in cross compilers
 

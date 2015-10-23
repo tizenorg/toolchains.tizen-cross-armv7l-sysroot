@@ -3,11 +3,12 @@
 # Copyright (c) 2010  Jan-Simon Möller (jsmoeller@linuxfoundation.org)
 #
 Name:           tizen-cross-armv7l-sysroot
-ExclusiveArch:  %ix86
+ExclusiveArch:  %ix86 x86_64
 AutoReqProv:    0
 AutoReqProv:    off
 Version:        0.0.1
 Release:        1
+VCS:            toolchains/tizen-cross-armv7l-sysroot#Z910F_PROTEX_0625-2-g5f0fc8d26d5e3ac4469db855a22e6c14cf20c6f2
 License:        GPL v2 or later
 Group:          Development/Tools/Building
 Summary:        This provides the sysroot file structure
